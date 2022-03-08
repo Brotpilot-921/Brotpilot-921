@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World :D 👋
+
+I'm Kevin. IT'ler with a lot of passion. I love messing around with networks and linux.<br>
+For more information about me, go to [kevinneufeld.de](https://kevinneufeld.de)
 
 <!--
 **Brotpilot-921/Brotpilot-921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
